@@ -1,16 +1,50 @@
-## Hi there 👋
+# 💫 About Me:
+## 👨‍💻 About Me
 
-<!--
-**hanuman-kshitijTiwari/hanuman-kshitijTiwari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Building full-stack applications using MERN and Java (Spring Boot)
 
-Here are some ideas to get you started:
+- 🤝 Open to collaborating on impactful web development and open-source projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧠 Focused on full-stack development and expanding my knowledge in AI/ML
+
+- 🌱 Exploring Artificial Intelligence and Machine Learning alongside core development
+
+- 💬 Ask me about Java, Backend Development, and Web Technologies
+
+- ⚡ Passionate about writing clean, efficient, and scalable code
+
+
+## 🌐 Connect with Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/kshitijtiwari1001)
+[![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:kshitijji001@gmail.com)
+
+
+# 💻 Tech Stack:
+### 🚀 Languages & Core
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk)
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B)
+![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
+
+### 🌐 Web Development
+![HTML](https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![Node.js](https://img.shields.io/badge/Node-green?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
+
+### ⚙️ Backend & Tools
+![Spring Boot](https://img.shields.io/badge/SpringBoot-green?style=for-the-badge&logo=spring)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
+![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=hanuman-kshitijTiwari&theme=radical&hide_border=false)
+![](https://nirzak-streak-stats.vercel.app/?user=hanuman-kshitijTiwari&theme=radical&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hanuman-kshitijTiwari&theme=radical&layout=compact)
+
+---
+
+![](https://visitcount.itsvg.in/api?id=hanuman-kshitijTiwari&icon=0&color=0)
