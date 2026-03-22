@@ -1,17 +1,17 @@
-# 💫 About Me:
 ## 👨‍💻 About Me
 
-- 🔭 Building full-stack applications using MERN and Java (Spring Boot)
+- <img src="https://img.shields.io/badge/Work-Full--Stack-blue?style=flat-square" /> Building full-stack applications using MERN and Java (Spring Boot)
 
-- 🤝 Open to collaborating on impactful web development and open-source projects
+- <img src="https://img.shields.io/badge/Collaboration-Open-green?style=flat-square" /> Open to collaborating on impactful web development and open-source projects
 
-- 🧠 Focused on full-stack development and expanding my knowledge in AI/ML
+- <img src="https://img.shields.io/badge/Focus-Development%20%26%20AI--ML-orange?style=flat-square" /> Focused on full-stack development and expanding my knowledge in AI/ML
 
-- 🌱 Exploring Artificial Intelligence and Machine Learning alongside core development
+- <img src="https://img.shields.io/badge/Learning-AI%2FML-yellow?style=flat-square" /> Exploring Artificial Intelligence and Machine Learning alongside core development
 
-- 💬 Ask me about Java, Backend Development, and Web Technologies
+- <img src="https://img.shields.io/badge/Ask%20Me-Java%20%26%20Backend-red?style=flat-square" /> Ask me about Java, Backend Development, and Web Technologies
 
-- ⚡ Passionate about writing clean, efficient, and scalable code
+- <img src="https://img.shields.io/badge/Code-Clean%20%26%20Scalable-blueviolet?style=flat-square" /> Passionate about writing clean, efficient, and scalable code
+
 
 
 ## 🌐 Connect with Me:
